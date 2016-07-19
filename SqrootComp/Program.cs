@@ -31,11 +31,11 @@ namespace SqrootComp
                 Console.WriteLine("Traditional Squareroot: " + ts.sqrootNum);
 
                 double degError = Math.Abs(hs.sqRootResult - ts.sqrootNum);
-            //    Console.WriteLine("Degree of Error: " + degError);
+                Console.WriteLine("Degree of Error: " + degError);
 
                 if (degError <= acceptableError)
                 {
-           //         Console.WriteLine("The square root computation for {0} is within the acceptable error range.", number);
+                    Console.WriteLine("The square root computation for {0} is within the acceptable error range.", number);
                 }
                 else
                 {
