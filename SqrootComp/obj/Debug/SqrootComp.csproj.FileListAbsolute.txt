@@ -1,0 +1,6 @@
+C:\Users\v-pasiva\github\SqrootComp\SqrootComp\bin\Debug\SqrootComp.exe.config
+C:\Users\v-pasiva\github\SqrootComp\SqrootComp\bin\Debug\SqrootComp.exe
+C:\Users\v-pasiva\github\SqrootComp\SqrootComp\bin\Debug\SqrootComp.pdb
+C:\Users\v-pasiva\github\SqrootComp\SqrootComp\obj\Debug\SqrootComp.csprojResolveAssemblyReference.cache
+C:\Users\v-pasiva\github\SqrootComp\SqrootComp\obj\Debug\SqrootComp.exe
+C:\Users\v-pasiva\github\SqrootComp\SqrootComp\obj\Debug\SqrootComp.pdb
