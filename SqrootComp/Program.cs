@@ -13,6 +13,7 @@ namespace SqrootComp
         {
             try
             {
+                
                 /*
                 Console.WriteLine("Please provide a number to find squareroot: ");
                 string numString = Console.ReadLine();
@@ -52,7 +53,10 @@ namespace SqrootComp
 
         static void Main(string[] args)
         {
-            int countMax = 10000;
+        
+
+            //     int countMax = 10000;
+            int countMax = 100;
             int minRange = 0, maxRange = 100000;
             Random rand = new Random();
             int count;
@@ -65,7 +69,7 @@ namespace SqrootComp
                 Console.WriteLine();
             }
 
-            Console.ReadLine();
+           Console.ReadLine();
         }
 
         private static void IndivSqRoot(int minRange, int maxRange, Random rand)

@@ -9,7 +9,7 @@ namespace SqrootComp
     /// <summary>
     /// Class to compute the square root of a number using traditional methods in the Math lib.
     /// </summary>
-    class TradSqroot
+    class TradSqroot:ISqrt
     {
         /// <summary>
         /// Number for which square root needs to be computed.

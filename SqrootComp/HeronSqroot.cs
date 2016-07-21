@@ -9,7 +9,7 @@ namespace SqrootComp
     /// <summary>
     /// Class to compute the square root of a given number using Heron's method.
     /// </summary>
-    class HeronSqroot
+    class HeronSqroot:ISqrt
     {
         /// <summary>
         /// The input number for which square root needs to be computed.
