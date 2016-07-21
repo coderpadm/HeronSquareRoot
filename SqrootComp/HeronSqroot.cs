@@ -20,6 +20,7 @@ namespace SqrootComp
         /// The allowed margin of error in square root computation.
         /// </summary>
         double marginOfError;
+      
 
         /// <summary>
         /// The generated square root output.
