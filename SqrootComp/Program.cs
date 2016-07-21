@@ -14,14 +14,6 @@ namespace SqrootComp
             try
             {
                 
-                /*
-                Console.WriteLine("Please provide a number to find squareroot: ");
-                string numString = Console.ReadLine();
-                double number = 25;
-
-                double.TryParse(numString, out number);
-                */
-
                 double acceptableError = 0.0001;
 
                 HeronSqroot hs = new HeronSqroot(number, acceptableError);
